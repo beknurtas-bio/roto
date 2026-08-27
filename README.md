@@ -24,9 +24,9 @@ Next vertical on the same stack. Construction progress monitoring for Almaty dev
 
 ## Team
 
-- **Amangeldi Bekaidar**, CEO. Sales and negotiations, drone pilot on site visits.
-- **Myrzabay Beknurtas**, CTO. Photogrammetry pipeline and measurement accuracy. Built LocalQuakeAlert (ESP32 seismic detector) solo.
-- **Bakhtiyar Merey**. Communications, design, customer interviews.
+- **Amangeldi Bekaidar**, Founder and CEO. Sales and negotiations, drone pilot on site visits. Full-time.
+- **Myrzabay Beknurtas**, Co-founder and CTO. Photogrammetry pipeline and measurement accuracy. Built LocalQuakeAlert (ESP32 seismic detector) solo. Full-time.
+- **Bakhtiyar Merey**. Communications, design, customer interviews. Part-time.
 
 Same team behind EcoStep. 1st place at TURAQTY JOL 7.0, LOI from Almaty Metro, invited to TechCrunch Disrupt 2026.
 
